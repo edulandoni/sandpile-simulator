@@ -1,12 +1,10 @@
-<img width="638" height="535" alt="plot" src="https://github.com/user-attachments/assets/360ef706-5cee-4cea-ae28-774bca8f0d34" />
-<img width="1109" height="944" alt="nano" src="https://github.com/user-attachments/assets/96a53313-b190-45e0-bc14-916dccf3857e" />
-<img width="1107" height="943" alt="console" src="https://github.com/user-attachments/assets/ec5eb478-7af4-4b3c-b5e6-a318474a4e02" />
-
 # Sandpile Simulator (C)
 
 A simple sandpile simulation written in C to explore self-organized criticality and avalanche dynamics.
 
 This project implements a discrete sandpile model and visualizes avalanche propagation step by step in the terminal. It also exports avalanche data to CSV for basic statistical analysis.
+
+<img width="1107" height="943" alt="console" src="https://github.com/user-attachments/assets/ec5eb478-7af4-4b3c-b5e6-a318474a4e02" />
 
 ---
 
@@ -38,6 +36,8 @@ In the current version, the relaxation is sequential (one topple per step), so a
 
 ## Data Collection and Analysis
 
+<img width="1109" height="944" alt="nano" src="https://github.com/user-attachments/assets/96a53313-b190-45e0-bc14-916dccf3857e" />
+
 The simulation exports avalanche data to a CSV file (avalanches.csv) with one row per avalanche.
 
 Example format:
@@ -50,6 +50,8 @@ Example format:
 Using this data, the avalanche size distribution can be analyzed externally.
 
 A log–log plot of avalanche size frequency shows a heavy-tailed behavior, consistent with self-organized criticality: many small avalanches and a few large ones.
+
+<img width="638" height="535" alt="plot" src="https://github.com/user-attachments/assets/360ef706-5cee-4cea-ae28-774bca8f0d34" />
 
 ---
 
