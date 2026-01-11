@@ -1,0 +1,23 @@
+# --- build outputs ---
+build/
+**/build/
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.elf
+*.map
+
+# --- debug / tooling ---
+*.dSYM/
+*.log
+compile_commands.json
+
+# --- editors / OS junk ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
