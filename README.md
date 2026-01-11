@@ -1,3 +1,6 @@
+<img width="638" height="535" alt="plot" src="https://github.com/user-attachments/assets/360ef706-5cee-4cea-ae28-774bca8f0d34" />
+<img width="1109" height="944" alt="nano" src="https://github.com/user-attachments/assets/96a53313-b190-45e0-bc14-916dccf3857e" />
+<img width="1107" height="943" alt="console" src="https://github.com/user-attachments/assets/ec5eb478-7af4-4b3c-b5e6-a318474a4e02" />
 
 # Sandpile Simulator (C)
 
